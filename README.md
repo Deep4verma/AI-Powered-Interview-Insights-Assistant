@@ -1,1 +1,1 @@
-# Interview-Insights-Chatbot
+# AI-Powered Interview Insights Assistant
